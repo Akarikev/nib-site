@@ -1,0 +1,10 @@
+{
+  "name": "nib-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official web companion & Google Play Privacy Policy site for Nib (com.nib.game)",
+  "scripts": {
+    "start": "bunx serve public",
+    "build": "echo 'Static bundle ready in public/'"
+  }
+}
